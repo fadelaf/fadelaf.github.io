@@ -1,0 +1,17 @@
+#cover-bar {
+    height: 400px;
+
+}
+
+#big-cover-con{
+
+    background-image: linear-gradient(rgba(0, 0, 0, 0.200),rgba(0, 0, 0, 0.2)), url(cover.jpg);
+    background-size: cover;
+    background-position: 0px;
+    background-blend-mode: darken;
+
+}
+
+#nama-cover{
+    padding-top: 100px ;
+}
