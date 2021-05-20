@@ -33,9 +33,14 @@
     text-align: center;
 }
 
-.body-paragraf-position{
-    text-align: justify;
-    /* text-justify: inter-word; */
+@media screen and (max-width: 600px) {
+
+    .body-paragraf-position{
+        text-align: justify;
+        /* text-justify: inter-word; */
+    
+}
+    
 }
 
 .current-activities{
