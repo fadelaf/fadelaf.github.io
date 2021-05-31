@@ -49,7 +49,7 @@
 
 .paragrafbox{
     align-content: center;
-    width: 50%;
+    width: 40%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
@@ -58,4 +58,12 @@
 
 h4{
     text-align: center;
+}
+
+
+@media screen and (max-width: 568px){
+
+    .paragrafbox{
+        width: 50%;
+    }
 }
