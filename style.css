@@ -53,7 +53,7 @@ div.cover{
 .background{
     display: grid;
     grid-template-areas:
-                        "ppict education";
+                        "ppict summary";
     
     grid-template-columns: 1fr 1fr;
 
@@ -79,8 +79,8 @@ div.cover{
     background-repeat: no-repeat;
 }
 
-.education{
-    grid-area: education;
+.summary{
+    grid-area: summary;
     align-items: center;
     justify-items: center;
     align-content: center;
@@ -94,7 +94,37 @@ div.cover{
 
 }
 
+.download{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    height: max-content;
+}
 
+.download{
+
+    padding: 10px;
+
+}
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 20px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+  }
+
+.button a{
+
+    text-decoration: none;
+    color: white;
+  }
 
 .text-1{
     /* width: 60%; */
@@ -229,7 +259,7 @@ div.cover{
         flex-wrap: wrap;
     }
 
-    .education{
+    .summary{
         height: max-content;
     }
 
@@ -286,7 +316,7 @@ div.cover{
         flex-wrap: wrap;
     }
 
-    .education{
+    .summary{
         height: max-content;
     }
 
