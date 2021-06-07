@@ -47,7 +47,7 @@ div.cover{
 
 .pp{
     grid-area: foto;
-    background-image: url(pp.jpg);
+    background-image: url(pasfoto.jpg);
     background-size: cover;
     background-position: center;
 }
