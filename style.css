@@ -47,7 +47,7 @@ div.cover{
 
 .pp{
     grid-area: foto;
-    background-image: url(pasfoto.jpg);
+    background-image:url(pasfoto.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -186,6 +186,7 @@ div.cover{
         min-width: 100%;
         min-height: 300px;
         order: 0;
+        background-position: center 15%;
     }
 
     .activities h2{
