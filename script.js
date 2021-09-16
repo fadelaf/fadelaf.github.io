@@ -1,3 +1,0 @@
-const summary_profile = document.getElementById("summary-profile")
-
-summary_profile.innerHTML = "I'm Fadel Ahmad. An entry level to software engineer. Python and Javascript are programming language I've studied so far. I also familiar with HTML and CSS. This personal page is one of my learning outcomes (more to come!). As a person I have good analytical skills and like to learn new things. Now, I'm seeking for opportunities to develop my skills intellectually, emotionally, and professionally. <br><br> 私のなまえわファデアハマヅです。２４よんさいです。バンヅンからきました。私はしょしんしゃのソフトエアエンジニアです。Pythonとjavascriptはべんきょうしています。あたらしことおまなぶのがすきです。いまわたしはインターンシップとしょくぎょをさがしています。"
